@@ -1,7 +1,7 @@
 - 👋 Hi, I’m yashwanth
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Backend Development
-- 💞️ I’m looking to collaborate on MERN, Python projects
+- 💞️ I’m looking to collaborate on Typescript, Graphql, Postgresql projects
 - 📫 How to reach me [mail](yaswanth.bandaru.kgp@gmail.com)
 
 <!---
